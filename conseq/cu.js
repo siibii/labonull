@@ -1,0 +1,1 @@
+isGroupArea = grouptype === 'area';
